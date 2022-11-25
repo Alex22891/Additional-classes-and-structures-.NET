@@ -1,0 +1,14 @@
+C:\Users\alexd\Desktop\Учеба\УП 01\Additional classes and structures .NET\Additional classes and structures .NET\bin\Debug\netcoreapp3.1\Additional classes and structures .NET.exe
+C:\Users\alexd\Desktop\Учеба\УП 01\Additional classes and structures .NET\Additional classes and structures .NET\bin\Debug\netcoreapp3.1\Additional classes and structures .NET.deps.json
+C:\Users\alexd\Desktop\Учеба\УП 01\Additional classes and structures .NET\Additional classes and structures .NET\bin\Debug\netcoreapp3.1\Additional classes and structures .NET.runtimeconfig.json
+C:\Users\alexd\Desktop\Учеба\УП 01\Additional classes and structures .NET\Additional classes and structures .NET\bin\Debug\netcoreapp3.1\Additional classes and structures .NET.runtimeconfig.dev.json
+C:\Users\alexd\Desktop\Учеба\УП 01\Additional classes and structures .NET\Additional classes and structures .NET\bin\Debug\netcoreapp3.1\Additional classes and structures .NET.dll
+C:\Users\alexd\Desktop\Учеба\УП 01\Additional classes and structures .NET\Additional classes and structures .NET\bin\Debug\netcoreapp3.1\Additional classes and structures .NET.pdb
+C:\Users\alexd\Desktop\Учеба\УП 01\Additional classes and structures .NET\Additional classes and structures .NET\obj\Debug\netcoreapp3.1\Additional classes and structures .NET.csproj.AssemblyReference.cache
+C:\Users\alexd\Desktop\Учеба\УП 01\Additional classes and structures .NET\Additional classes and structures .NET\obj\Debug\netcoreapp3.1\Additional classes and structures .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\Desktop\Учеба\УП 01\Additional classes and structures .NET\Additional classes and structures .NET\obj\Debug\netcoreapp3.1\Additional classes and structures .NET.AssemblyInfoInputs.cache
+C:\Users\alexd\Desktop\Учеба\УП 01\Additional classes and structures .NET\Additional classes and structures .NET\obj\Debug\netcoreapp3.1\Additional classes and structures .NET.AssemblyInfo.cs
+C:\Users\alexd\Desktop\Учеба\УП 01\Additional classes and structures .NET\Additional classes and structures .NET\obj\Debug\netcoreapp3.1\Additional classes and structures .NET.csproj.CoreCompileInputs.cache
+C:\Users\alexd\Desktop\Учеба\УП 01\Additional classes and structures .NET\Additional classes and structures .NET\obj\Debug\netcoreapp3.1\Additional classes and structures .NET.dll
+C:\Users\alexd\Desktop\Учеба\УП 01\Additional classes and structures .NET\Additional classes and structures .NET\obj\Debug\netcoreapp3.1\Additional classes and structures .NET.pdb
+C:\Users\alexd\Desktop\Учеба\УП 01\Additional classes and structures .NET\Additional classes and structures .NET\obj\Debug\netcoreapp3.1\Additional classes and structures .NET.genruntimeconfig.cache
